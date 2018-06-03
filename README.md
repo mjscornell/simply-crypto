@@ -1,2 +1,2 @@
-# project-potato
-a project about something
+# sc-site
+Simply Crypto Consulting
